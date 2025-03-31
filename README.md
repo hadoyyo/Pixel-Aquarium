@@ -33,3 +33,7 @@ Any system capable of running .exe files.
 
 1. Extract the `Pixel Aquarium.zip` file.
 2. Run the `Pixel Aquarium.exe` file to start the game.
+
+## Screenshots
+
+
