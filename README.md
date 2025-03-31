@@ -29,6 +29,10 @@
 ## Requirements
 Any system capable of running .exe files.
 
+## Technologies
+
+- Python 3.10 using the Pygame library
+
 ## Setup Instructions
 
 1. Extract the `Pixel Aquarium.zip` file.
