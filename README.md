@@ -14,7 +14,9 @@
 
 ## Project Overview
 
-**Pixel Aquarium** is a 2D game in which the player focuses on designing his own aquarium. To do so, he catches fish - to display in the aquarium or sell for profit - which allows him to upgrade his equipment, buy various decorations and collect exotic aquatic creatures. Completing the game should take a few hours. **The game is available in English language version!**
+**Pixel Aquarium** is a 2D game in which the player focuses on designing his own aquarium. To do so, he catches fish - to display in the aquarium or sell for profit - which allows him to upgrade his equipment, buy various decorations and collect exotic aquatic creatures. Completing the game should take a few hours. 
+> [!NOTE]  
+> The game is available in English language version!
 
 ## Features
 
